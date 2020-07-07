@@ -1,0 +1,3 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5eb0f907-1e0f-4a24-b60e-0fa21a214dc2/deploy-status)](https://app.netlify.com/sites/pedantic-shirley-756423/deploys)
+
+Docs here...
